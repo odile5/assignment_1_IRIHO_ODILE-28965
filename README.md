@@ -50,19 +50,19 @@ The project includes 8 complex analytical queries saved in [`queries.sql`](./que
 ## 4. Query Execution Outputs & Screenshots
 
 ### Screenshot 1: Database Setup and Population
-![Database Creation and Inserts](1.png)
+![Database Creation and Inserts](screenshots/1.png)
 
 ### Screenshot 2: Multi-Table JOIN Analysis
-![JOIN Query Output](2.png)
+![JOIN Query Output](screenshots/2.png)
 
 ### Screenshot 3: High-Spender CTE Calculation
-![CTE Query Output](3.png)
+![CTE Query Output](screenshots/3.png)
 
 ### Screenshot 4: Customer Ranking Window Function
-![Dense Rank Output](4.png)
+![Dense Rank Output](screenshots/4.png)
 
 ### Screenshot 5: Order Interval Analysis (LAG Function)
-![LAG Function Output](5.png)
+![LAG Function Output](screenshots/5.png)
 
 ---
 
